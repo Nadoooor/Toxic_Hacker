@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: Toxic_Hacker
+description: "A Very simple theme refelects my personality and my little moscot the hackasnake."
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
